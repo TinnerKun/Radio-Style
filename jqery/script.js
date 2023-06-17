@@ -5,7 +5,7 @@ document.body.innerHTML = `
             <a id="soundtitle"></a>
             <audio></audio>
             <a id="play">Play</a>
-            <img src="radio.png" alt="Radio" style="width: 100%;">
+            <img src="radio.webp" alt="Radio" style="width: 100%;">
         </div>
     </div>
     <footer>
